@@ -1,4 +1,4 @@
-crux-ports
+Crux Ports
 ==========
 
 Personal CRUX ports tree
